@@ -13,6 +13,6 @@ totalporcentaje3 = (contabilidad/totalEstudiantes)*100
 
 print("La inversion total de estudiantes es: ",totalEstudiantes)
 
-print("porcentaje estudiantes de redes: ",totalporcentaje1)
-print("porcentaje estudiantes diseño: ",totalporcentaje2)
-print("porcentaje estudiantes contabilidad ",totalporcentaje3)
+print("Porcentaje estudiantes de redes: ",totalporcentaje1)
+print("Porcentaje estudiantes diseño: ",totalporcentaje2)
+print("Porcentaje estudiantes contabilidad ",totalporcentaje3)

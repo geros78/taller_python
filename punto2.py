@@ -15,6 +15,6 @@ totalporcentaje3 = (inversion3/totalInversion)*100
 
 print("La inversion total es: ",totalInversion)
 
-print("porcentaje inversion 1: ",totalporcentaje1)
-print("porcentaje inversion 2: ",totalporcentaje2)
-print("porcentaje inversion 3: ",totalporcentaje3)
+print("Porcentaje inversion 1: ",totalporcentaje1)
+print("Porcentaje inversion 2: ",totalporcentaje2)
+print("Porcentaje inversion 3: ",totalporcentaje3)
