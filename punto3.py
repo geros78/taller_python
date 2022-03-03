@@ -12,3 +12,4 @@ totalSueldo = sueldo+sueldoComicion
 print("total del sueldo: ",sueldo)
 print("total de comicion: ",sueldoComicion)
 print("Total del suelto mas la comicion: ",totalSueldo)
+
