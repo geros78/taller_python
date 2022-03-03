@@ -18,9 +18,9 @@ totalproyecto = proyectofinal*0.20
 
 calificacionTotal = +totalexamen+totaltaller+totaltaller
 
-print("calificacion talleres del estudiante: ",totaltaller)
-print("calificacion Examen en clase del estudiante: ",totalexamen)
-print("calificacion total del proyecto del estudiante: ",totalproyecto)
+print("Calificacion talleres del estudiante: ",totaltaller)
+print("Calificacion Examen en clase del estudiante: ",totalexamen)
+print("Calificacion total del proyecto del estudiante: ",totalproyecto)
 
-print("calificacion final del estudiante: ",calificacionTotal)
+print("Calificacion final del estudiante: ",calificacionTotal)
 
